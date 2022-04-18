@@ -1,4 +1,4 @@
-# Ringkasan aplikasi Hpmu!
+# Hpmu!
 
 Aplikasi ini menampilkan berbagai Info tentang smarthphone android kamu. Dari info sensor, jaringan, dan detail OS :D!
 
